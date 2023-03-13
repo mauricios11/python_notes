@@ -7,7 +7,8 @@ This repository contains notes taken during classes python with the languaje too
 - some of the notes are written twice: in a pyfile and in a jupyter nb
 
 ## Directories:
-- ### **Basics** ##### basic concepts (.py and ipynb files)
+- ### **Basics** 
+   - basic concepts (.py and ipynb files)
  - #### pyfiles:
     - *operators* `and` / `or`
     - *booleans*
@@ -23,7 +24,8 @@ This repository contains notes taken during classes python with the languaje too
 final project: piedra papel ó tijera
 
 
-- ### **intermediate** #####complexity of the concepts is a little higher (.py, .csv and ipynb files) 
+- ### **intermediate** 
+   - complexity of the concepts is a little higher (.py, .csv and ipynb files) 
 - #### pyfiles:
   - list comprehensions
   - dict comprehensions
