@@ -1,6 +1,6 @@
 # python notes
 
-#### By: :t-rex:mauricio
+#### By: :t-rex: mauricio
 
 #### Description
 This repository contains notes taken during classes python with the languaje tools
