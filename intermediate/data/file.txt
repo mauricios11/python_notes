@@ -1,0 +1,6 @@
+Esta es una nueva línea agregada al file.txt desde un nb
+ Esta es otra línea agregada en el archivo desde un nb
+ Esta es una nueva línea agregada desde el pyfile
+Esta es una nueva línea agregada desde el pyfile
+Esta es una nueva línea agregada desde el pyfile
+Esta es una nueva línea agregada desde el pyfile
