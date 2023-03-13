@@ -35,7 +35,7 @@ This repository contains notes taken during classes python with the languaje too
   - overwrite files
   - packages
 
-  *jupyter nb's are mostly the same concept as the py files but with a more extensive explanation:*
+    *jupyter nb's are mostly the same concept as the py files but with a more extensive explanation*
 
 **final project**: plot the population of a country using an imported dataset (without using pandas)
 
