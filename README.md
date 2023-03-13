@@ -1,12 +1,12 @@
 # python notes
 
-# By: mauricio
+#### By: :t-rex:mauricio
 
-# Description
+#### Description
 This repository contains notes taken during classes python with the languaje tools
 - some of the notes are written twice: in a pyfile and in a jupyter nb
 
-# Directories:
+## Directories:
 - ### **Basics** basic concepts (.py and ipynb files)
  - #### pyfiles:
     - *operators* `and` / `or`
