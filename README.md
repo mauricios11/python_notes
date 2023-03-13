@@ -21,7 +21,7 @@ This repository contains notes taken during classes python with the languaje too
     - sets
     - list's
 
-final project: piedra papel ó tijera
+**final project**: piedra papel ó tijera game
 
 
 - ### **intermediate** 
@@ -37,6 +37,7 @@ final project: piedra papel ó tijera
 
   *& jupyter nb's are mostly the same concept but with a more extensive explanation:*
 
-final project: plot the population of a country using an imported dataset (without using pandas)
-     -  All scripts must be modularized. Which will be initializing from a main file
+**final project**: plot the population of a country using an imported dataset (without using pandas)
+
+-  All scripts must be modularized. Which will be initializing from a main file
 
